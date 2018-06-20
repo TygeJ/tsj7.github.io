@@ -4,10 +4,12 @@ add home butto to every page
 *{
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
+  background: black;
+  color: white
   }
   .agrey{
-    color: black;
-    opacity: .6
+    color: white;
+    opacity: 1
   }
 .container0{
   display: flex;
@@ -94,13 +96,13 @@ p2{
   height: 250px;
   width: 100%;
   object-fit: cover;
-  border: solid white
+  border: solid black
 }
 .b2{
   height: 250px;
   width: 100%;
   object-fit: cover;
-  /* border: solid white; */
+  /* border: solid black; */
 }
 .box1:hover .b2{
   opacity: .5
