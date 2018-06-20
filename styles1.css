@@ -1,3 +1,6 @@
+/* todo
+add home butto to every page
+*/
 *{
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
@@ -98,4 +101,10 @@ p2{
   width: 100%;
   object-fit: cover;
   /* border: solid white; */
+}
+.box1:hover .b2{
+  opacity: .5
+}
+.nav2:hover .b1{
+  opacity: .5
 }
