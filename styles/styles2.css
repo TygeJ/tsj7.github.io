@@ -72,56 +72,63 @@ img {
   width: 50%;
   height: 100px;
 }
-.ux{
+.home{
   position: absolute;
   top: 60px;
+  left: 16px;
+  font-size: 20px;
+
+}
+.ux{
+  position: absolute;
+  top: 120px;
   left: 16px;
   font-size: 20px;
 }
 .js{
   position: absolute;
-  top: 85px;
+  top: 145px;
   left: 16px;
   font-size: 20px;
   margin-top: 35px
 }
 .react{
   position: absolute;
-  top: 110px;
+  top: 170px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
 }
-
-.resume{
+.contact{
   position: absolute;
   top: 230px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
 }
-.linkedin{
+.resume{
   position: absolute;
   top: 290px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
 }
-.github{
+.linkedin{
   position: absolute;
   top: 350px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
 }
-
-.contact{
+.github{
   position: absolute;
-  top: 170px;
+  top: 410px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
 }
+
+
 .text{
   color: black;
   opacity: .6;
@@ -146,9 +153,8 @@ img {
   display: flex
 }
 .abouttext{
-  /* border: solid; */
-  margin: 140px 0px 0px 12%;
-  height: 150px;
+  margin: 170px 0px 0px 13%;
+  height: 250px;
   width: 75%;
   font-size: 25px
 }
