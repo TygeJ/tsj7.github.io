@@ -1,3 +1,3 @@
 todo
-add home butto to every page
+add home button to every page
 delete targets?

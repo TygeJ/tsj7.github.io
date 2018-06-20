@@ -16,9 +16,7 @@
   border: black;
 }
 .box0{
-  /* background: yellow; */
   height: 250px;
-  /* font-size: 80px; */
   width: 100%;
 }
 bp{
@@ -32,12 +30,10 @@ bp1{
   justify-content: space-between;
   height: 250px;
   width: 100%;
-  /* border: white; */
   text-align: center;
 }
 .boxa{
-  /* background: blue; */
-  height: 250px;
+  height: 50px;
   font-size: 30px;
   width: 20%;
   margin-top: 100px;
@@ -47,10 +43,8 @@ display: flex;
 height: 250px;
 width: 100%;
 justify-content: flex-end;
-/* border: white; */
 }
 .box{
-  /* background: green; */
   height: 130px;
   width: 100%;
   text-align: center;
@@ -59,10 +53,8 @@ justify-content: flex-end;
 p1{
   font-size: 30px;
   margin-top: 50px;
-  /* border: white */
 }
 .nav2{
-  /* background: red; */
   height: 250px;
   width: 100%;
 }
@@ -71,10 +63,8 @@ display: flex;
 height: 250px;
 width: 100%;
 justify-content: flex-start;
-/* border: white; */
 }
 .box1{
-  /* background: red; */
   height: 100%;
   width: 100%;
 }
@@ -88,7 +78,6 @@ justify-content: flex-start;
 }
 p2{
   font-size: 30px;
-  /* border: white */
 }
 .b1{
   height: 250px;
@@ -100,10 +89,9 @@ p2{
   height: 250px;
   width: 100%;
   object-fit: cover;
-  /* border: solid black; */
 }
 .box1:hover .b2{
-  opacity: .5
+  opacity: .5;
 }
 .nav2:hover .b1{
   opacity: .5
