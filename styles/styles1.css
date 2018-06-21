@@ -1,11 +1,16 @@
+
+.backg1{
+  opacity: .1;
+}
 *{
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
-  background: black;
-  color: white
+  background: white;
+  color: black
   }
+
   .agrey{
-    color: white;
+    color: black;
     opacity: 1
   }
 .container0{
@@ -82,7 +87,7 @@ p2{
   height: 250px;
   width: 100%;
   object-fit: cover;
-  border: solid black
+  border: solid white
 }
 .b2{
   height: 250px;
