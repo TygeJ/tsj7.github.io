@@ -53,7 +53,7 @@ table {
   position: absolute;
   top: 10px;
   left: 16px;
-  font-size: 42px;
+  font-size: 35px;
 }
 img {
   min-height: 100%;
@@ -74,13 +74,13 @@ img {
 }
 .ux{
   position: absolute;
-  top: 160px;
+  top: 100px;
   left: 16px;
   font-size: 20px;
 }
 .js{
   position: absolute;
-  top: 85px;
+  top: 105px;
   left: 16px;
   font-size: 20px;
   margin-top: 35px
@@ -94,7 +94,7 @@ img {
 }
 .contact{
   position: absolute;
-  top: 170px;
+  top: 150px;
   left: 16px;
   font-size: 20px;
   margin-top: 70px
@@ -113,7 +113,7 @@ img {
     position: absolute;
     top: 10px;
     left: 16px;
-    font-size: 32px;
+    font-size: 25px;
   }
   .nav{
     position: absolute;
@@ -125,27 +125,27 @@ img {
   }
   .ux{
     position: absolute;
-    top: 50px;
+    top: 75px;
     left: 16px;
     font-size: 17px;
   }
   .js{
     position: absolute;
-    top: 75px;
+    top: 80px;
     left: 16px;
     font-size: 17px;
     margin-top: 35px
   }
   .react{
     position: absolute;
-    top: 100px;
+    top: 85px;
     left: 16px;
     font-size: 17px;
     margin-top: 70px
   }
   .contact{
     position: absolute;
-    top: 160px;
+    top: 125px;
     left: 16px;
     font-size: 17px;
     margin-top: 70px
