@@ -127,6 +127,13 @@ img {
   font-size: 20px;
   margin-top: 70px
 }
+.email{
+  position: absolute;
+  top: 470px;
+  left: 16px;
+  font-size: 20px;
+  margin-top: 70px
+}
 
 
 .text{
