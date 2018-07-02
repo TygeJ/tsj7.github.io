@@ -1,5 +1,5 @@
 .backg1{
-  opacity: .1;
+  opacity: .4;
 }
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -138,7 +138,7 @@ img {
 
 .text{
   color: black;
-  opacity: .6;
+  /* opacity: .7; */
   text-decoration: none;
   left: 5px;
 }
